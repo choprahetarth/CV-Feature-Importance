@@ -1,0 +1,1777 @@
+==============================Starting Ablation Study 1 Resnet/Average/Video batch_size 64 ==================== 
+Epoch 1/30
+
+Train Loss: 0.48448 | Train Acc: 82.66%
+Test Loss: 0.43650 | Test Acc: 82.24%
+Epoch 2/30
+
+Train Loss: 0.32711 | Train Acc: 88.28%
+Test Loss: 0.45502 | Test Acc: 83.56%
+Epoch 3/30
+
+Train Loss: 0.27633 | Train Acc: 89.90%
+Test Loss: 0.34998 | Test Acc: 86.94%
+Epoch 4/30
+
+Train Loss: 0.24983 | Train Acc: 90.86%
+Test Loss: 0.30912 | Test Acc: 89.02%
+Epoch 5/30
+
+Train Loss: 0.21508 | Train Acc: 92.04%
+Test Loss: 0.30291 | Test Acc: 89.65%
+Epoch 6/30
+
+Train Loss: 0.19365 | Train Acc: 92.75%
+Test Loss: 0.29192 | Test Acc: 89.68%
+Epoch 7/30
+
+Train Loss: 0.17111 | Train Acc: 93.63%
+Test Loss: 0.28415 | Test Acc: 90.44%
+Epoch 8/30
+
+Train Loss: 0.15248 | Train Acc: 94.25%
+Test Loss: 0.29124 | Test Acc: 90.55%
+Epoch 9/30
+
+Train Loss: 0.13347 | Train Acc: 95.03%
+Test Loss: 0.29796 | Test Acc: 90.67%
+Epoch 10/30
+
+Train Loss: 0.11744 | Train Acc: 95.63%
+Test Loss: 0.32670 | Test Acc: 90.46%
+Epoch 11/30
+
+Train Loss: 0.10073 | Train Acc: 96.21%
+Test Loss: 0.33116 | Test Acc: 90.65%
+Epoch 12/30
+
+Train Loss: 0.08852 | Train Acc: 96.67%
+Test Loss: 0.34284 | Test Acc: 90.79%
+Epoch 13/30
+
+Train Loss: 0.07747 | Train Acc: 97.05%
+Test Loss: 0.36983 | Test Acc: 90.87%
+Epoch 14/30
+
+Train Loss: 0.07331 | Train Acc: 97.25%
+Test Loss: 0.38841 | Test Acc: 90.53%
+Epoch 15/30
+
+Train Loss: 0.06508 | Train Acc: 97.56%
+Test Loss: 0.41977 | Test Acc: 90.46%
+Epoch 16/30
+
+Train Loss: 0.05642 | Train Acc: 97.90%
+Test Loss: 0.44072 | Test Acc: 89.89%
+Epoch 17/30
+
+Train Loss: 0.06220 | Train Acc: 97.77%
+Test Loss: 0.40082 | Test Acc: 89.77%
+Epoch 18/30
+
+Train Loss: 0.07608 | Train Acc: 97.47%
+Test Loss: 0.38105 | Test Acc: 89.85%
+Epoch 19/30
+
+Train Loss: 0.05517 | Train Acc: 97.99%
+Test Loss: 0.37029 | Test Acc: 91.09%
+Epoch 20/30
+
+Train Loss: 0.03889 | Train Acc: 98.51%
+Test Loss: 0.44361 | Test Acc: 90.99%
+Epoch 21/30
+
+Train Loss: 0.03136 | Train Acc: 98.85%
+Test Loss: 0.45869 | Test Acc: 90.98%
+Epoch 22/30
+
+Train Loss: 0.03551 | Train Acc: 98.72%
+Test Loss: 0.42773 | Test Acc: 91.12%
+Epoch 23/30
+
+Train Loss: 0.03301 | Train Acc: 98.82%
+Test Loss: 0.44718 | Test Acc: 91.15%
+Epoch 24/30
+
+Train Loss: 0.03026 | Train Acc: 98.89%
+Test Loss: 0.44356 | Test Acc: 91.10%
+Epoch 25/30
+
+Train Loss: 0.02820 | Train Acc: 98.99%
+Test Loss: 0.46145 | Test Acc: 91.05%
+Epoch 26/30
+
+Train Loss: 0.03087 | Train Acc: 98.95%
+Test Loss: 0.45428 | Test Acc: 90.80%
+Epoch 27/30
+
+Train Loss: 0.02791 | Train Acc: 99.02%
+Test Loss: 0.49541 | Test Acc: 90.90%
+Epoch 28/30
+
+Train Loss: 0.02657 | Train Acc: 99.04%
+Test Loss: 0.45135 | Test Acc: 91.11%
+Epoch 29/30
+
+Train Loss: 0.02554 | Train Acc: 99.10%
+Test Loss: 0.51558 | Test Acc: 90.98%
+Epoch 30/30
+
+Train Loss: 0.02384 | Train Acc: 99.17%
+Test Loss: 0.48459 | Test Acc: 90.86%
+(1, 28, 28)
+evaluating...
+==============================Starting Ablation Study 1 Resnet/Average/Video batch_size 256 ==================== 
+Epoch 1/30
+
+Train Loss: 0.46097 | Train Acc: 83.08%
+Test Loss: 0.39052 | Test Acc: 84.88%
+Epoch 2/30
+
+Train Loss: 0.30843 | Train Acc: 88.57%
+Test Loss: 0.31678 | Test Acc: 88.03%
+Epoch 3/30
+
+Train Loss: 0.26067 | Train Acc: 90.37%
+Test Loss: 0.33375 | Test Acc: 88.00%
+Epoch 4/30
+
+Train Loss: 0.23451 | Train Acc: 91.38%
+Test Loss: 0.32140 | Test Acc: 88.59%
+Epoch 5/30
+
+Train Loss: 0.21205 | Train Acc: 92.15%
+Test Loss: 0.30678 | Test Acc: 88.93%
+Epoch 6/30
+
+Train Loss: 0.19547 | Train Acc: 92.81%
+Test Loss: 0.31298 | Test Acc: 89.73%
+Epoch 7/30
+
+Train Loss: 0.18091 | Train Acc: 93.25%
+Test Loss: 0.29912 | Test Acc: 89.73%
+Epoch 8/30
+
+Train Loss: 0.16478 | Train Acc: 93.82%
+Test Loss: 0.37543 | Test Acc: 87.61%
+Epoch 9/30
+
+Train Loss: 0.15051 | Train Acc: 94.34%
+Test Loss: 0.34679 | Test Acc: 89.28%
+Epoch 10/30
+
+Train Loss: 0.13876 | Train Acc: 94.79%
+Test Loss: 0.34729 | Test Acc: 89.26%
+Epoch 11/30
+
+Train Loss: 0.12824 | Train Acc: 95.23%
+Test Loss: 0.35645 | Test Acc: 89.44%
+Epoch 12/30
+
+Train Loss: 0.11196 | Train Acc: 95.85%
+Test Loss: 0.33486 | Test Acc: 90.32%
+Epoch 13/30
+
+Train Loss: 0.10461 | Train Acc: 96.20%
+Test Loss: 0.40231 | Test Acc: 88.90%
+Epoch 14/30
+
+Train Loss: 0.09533 | Train Acc: 96.53%
+Test Loss: 0.36503 | Test Acc: 90.14%
+Epoch 15/30
+
+Train Loss: 0.08535 | Train Acc: 96.88%
+Test Loss: 0.41721 | Test Acc: 90.13%
+Epoch 16/30
+
+Train Loss: 0.08118 | Train Acc: 96.97%
+Test Loss: 0.39656 | Test Acc: 90.21%
+Epoch 17/30
+
+Train Loss: 0.06811 | Train Acc: 97.44%
+Test Loss: 0.41427 | Test Acc: 90.39%
+Epoch 18/30
+
+Train Loss: 0.06523 | Train Acc: 97.57%
+Test Loss: 0.46925 | Test Acc: 89.80%
+Epoch 19/30
+
+Train Loss: 0.05905 | Train Acc: 97.83%
+Test Loss: 0.47259 | Test Acc: 90.01%
+Epoch 20/30
+
+Train Loss: 0.05371 | Train Acc: 98.02%
+Test Loss: 0.47879 | Test Acc: 89.78%
+Epoch 21/30
+
+Train Loss: 0.05352 | Train Acc: 98.09%
+Test Loss: 0.44591 | Test Acc: 90.14%
+Epoch 22/30
+
+Train Loss: 0.04660 | Train Acc: 98.32%
+Test Loss: 0.50839 | Test Acc: 89.51%
+Epoch 23/30
+
+Train Loss: 0.04241 | Train Acc: 98.48%
+Test Loss: 0.45170 | Test Acc: 90.06%
+Epoch 24/30
+
+Train Loss: 0.03651 | Train Acc: 98.65%
+Test Loss: 0.46524 | Test Acc: 90.60%
+Epoch 25/30
+
+Train Loss: 0.03695 | Train Acc: 98.67%
+Test Loss: 0.47773 | Test Acc: 90.07%
+Epoch 26/30
+
+Train Loss: 0.03354 | Train Acc: 98.77%
+Test Loss: 0.46624 | Test Acc: 90.04%
+Epoch 27/30
+
+Train Loss: 0.03220 | Train Acc: 98.88%
+Test Loss: 0.46731 | Test Acc: 90.46%
+Epoch 28/30
+
+Train Loss: 0.02896 | Train Acc: 99.00%
+Test Loss: 0.51551 | Test Acc: 89.54%
+Epoch 29/30
+
+Train Loss: 0.03085 | Train Acc: 98.90%
+Test Loss: 0.48796 | Test Acc: 90.10%
+Epoch 30/30
+
+Train Loss: 0.02818 | Train Acc: 99.00%
+Test Loss: 0.46018 | Test Acc: 90.55%
+(1, 28, 28)
+evaluating...
+==============================Starting Ablation Study 1 Resnet/Average/Video batch_size 1024 ==================== 
+Epoch 1/30
+
+Train Loss: 0.53298 | Train Acc: 80.28%
+Test Loss: 0.38480 | Test Acc: 85.87%
+Epoch 2/30
+
+Train Loss: 0.31559 | Train Acc: 88.23%
+Test Loss: 0.36811 | Test Acc: 86.48%
+Epoch 3/30
+
+Train Loss: 0.26523 | Train Acc: 90.03%
+Test Loss: 0.38811 | Test Acc: 86.69%
+Epoch 4/30
+
+Train Loss: 0.23614 | Train Acc: 91.08%
+Test Loss: 0.32773 | Test Acc: 87.84%
+Epoch 5/30
+
+Train Loss: 0.21541 | Train Acc: 91.89%
+Test Loss: 0.36204 | Test Acc: 87.24%
+Epoch 6/30
+
+Train Loss: 0.19805 | Train Acc: 92.57%
+Test Loss: 0.41058 | Test Acc: 87.14%
+Epoch 7/30
+
+Train Loss: 0.18439 | Train Acc: 92.96%
+Test Loss: 0.37542 | Test Acc: 88.20%
+Epoch 8/30
+
+Train Loss: 0.16486 | Train Acc: 93.82%
+Test Loss: 0.33302 | Test Acc: 89.43%
+Epoch 9/30
+
+Train Loss: 0.15380 | Train Acc: 94.20%
+Test Loss: 0.39386 | Test Acc: 87.54%
+Epoch 10/30
+
+Train Loss: 0.14299 | Train Acc: 94.49%
+Test Loss: 0.41962 | Test Acc: 86.83%
+Epoch 11/30
+
+Train Loss: 0.13258 | Train Acc: 94.90%
+Test Loss: 0.41273 | Test Acc: 87.48%
+Epoch 12/30
+
+Train Loss: 0.12199 | Train Acc: 95.35%
+Test Loss: 0.36602 | Test Acc: 89.10%
+Epoch 13/30
+
+Train Loss: 0.11246 | Train Acc: 95.68%
+Test Loss: 0.34586 | Test Acc: 90.25%
+Epoch 14/30
+
+Train Loss: 0.10710 | Train Acc: 95.92%
+Test Loss: 0.38428 | Test Acc: 89.00%
+Epoch 15/30
+
+Train Loss: 0.09724 | Train Acc: 96.23%
+Test Loss: 0.43231 | Test Acc: 88.85%
+Epoch 16/30
+
+Train Loss: 0.09005 | Train Acc: 96.54%
+Test Loss: 0.41927 | Test Acc: 89.01%
+Epoch 17/30
+
+Train Loss: 0.08231 | Train Acc: 96.87%
+Test Loss: 0.39832 | Test Acc: 89.87%
+Epoch 18/30
+
+Train Loss: 0.07599 | Train Acc: 97.15%
+Test Loss: 0.42346 | Test Acc: 88.70%
+Epoch 19/30
+
+Train Loss: 0.07245 | Train Acc: 97.25%
+Test Loss: 0.42685 | Test Acc: 89.08%
+Epoch 20/30
+
+Train Loss: 0.06277 | Train Acc: 97.65%
+Test Loss: 0.42304 | Test Acc: 89.81%
+Epoch 21/30
+
+Train Loss: 0.05963 | Train Acc: 97.73%
+Test Loss: 0.43126 | Test Acc: 90.06%
+Epoch 22/30
+
+Train Loss: 0.06249 | Train Acc: 97.70%
+Test Loss: 0.44253 | Test Acc: 90.26%
+Epoch 23/30
+
+Train Loss: 0.05311 | Train Acc: 97.99%
+Test Loss: 0.43347 | Test Acc: 90.06%
+Epoch 24/30
+
+Train Loss: 0.04301 | Train Acc: 98.37%
+Test Loss: 0.48863 | Test Acc: 89.79%
+Epoch 25/30
+
+Train Loss: 0.03991 | Train Acc: 98.59%
+Test Loss: 0.53100 | Test Acc: 89.37%
+Epoch 26/30
+
+Train Loss: 0.03863 | Train Acc: 98.59%
+Test Loss: 0.52842 | Test Acc: 89.15%
+Epoch 27/30
+
+Train Loss: 0.03458 | Train Acc: 98.68%
+Test Loss: 0.49292 | Test Acc: 89.46%
+Epoch 28/30
+
+Train Loss: 0.03509 | Train Acc: 98.68%
+Test Loss: 0.46414 | Test Acc: 89.92%
+Epoch 29/30
+
+Train Loss: 0.03198 | Train Acc: 98.83%
+Test Loss: 0.47559 | Test Acc: 89.51%
+Epoch 30/30
+
+Train Loss: 0.03173 | Train Acc: 98.83%
+Test Loss: 0.49475 | Test Acc: 89.50%
+(1, 28, 28)
+evaluating...
+==============================Starting Ablation Study 1 Resnet/Average/Video batch_size 2048 ==================== 
+Epoch 1/30
+
+Train Loss: 0.63282 | Train Acc: 76.94%
+Test Loss: 0.78468 | Test Acc: 71.81%
+Epoch 2/30
+
+Train Loss: 0.32283 | Train Acc: 87.96%
+Test Loss: 0.41843 | Test Acc: 84.07%
+Epoch 3/30
+
+Train Loss: 0.26708 | Train Acc: 89.86%
+Test Loss: 0.36496 | Test Acc: 86.92%
+Epoch 4/30
+
+Train Loss: 0.23556 | Train Acc: 91.16%
+Test Loss: 0.36915 | Test Acc: 86.31%
+Epoch 5/30
+
+Train Loss: 0.21851 | Train Acc: 91.74%
+Test Loss: 0.39406 | Test Acc: 86.58%
+Epoch 6/30
+
+Train Loss: 0.20673 | Train Acc: 92.17%
+Test Loss: 0.36223 | Test Acc: 87.29%
+Epoch 7/30
+
+Train Loss: 0.18378 | Train Acc: 93.16%
+Test Loss: 0.35948 | Test Acc: 88.49%
+Epoch 8/30
+
+Train Loss: 0.16740 | Train Acc: 93.73%
+Test Loss: 0.39320 | Test Acc: 87.15%
+Epoch 9/30
+
+Train Loss: 0.15950 | Train Acc: 93.94%
+Test Loss: 0.54335 | Test Acc: 82.71%
+Epoch 10/30
+
+Train Loss: 0.14534 | Train Acc: 94.46%
+Test Loss: 0.38062 | Test Acc: 88.08%
+Epoch 11/30
+
+Train Loss: 0.13324 | Train Acc: 94.88%
+Test Loss: 0.35379 | Test Acc: 89.40%
+Epoch 12/30
+
+Train Loss: 0.12732 | Train Acc: 95.19%
+Test Loss: 0.39407 | Test Acc: 88.93%
+Epoch 13/30
+
+Train Loss: 0.11555 | Train Acc: 95.66%
+Test Loss: 0.43546 | Test Acc: 87.51%
+Epoch 14/30
+
+Train Loss: 0.10463 | Train Acc: 96.06%
+Test Loss: 0.37426 | Test Acc: 89.43%
+Epoch 15/30
+
+Train Loss: 0.09309 | Train Acc: 96.42%
+Test Loss: 0.46282 | Test Acc: 88.67%
+Epoch 16/30
+
+Train Loss: 0.09240 | Train Acc: 96.52%
+Test Loss: 0.47446 | Test Acc: 88.49%
+Epoch 17/30
+
+Train Loss: 0.08292 | Train Acc: 96.81%
+Test Loss: 0.46644 | Test Acc: 89.08%
+Epoch 18/30
+
+Train Loss: 0.07300 | Train Acc: 97.25%
+Test Loss: 0.45011 | Test Acc: 89.34%
+Epoch 19/30
+
+Train Loss: 0.06714 | Train Acc: 97.48%
+Test Loss: 0.44202 | Test Acc: 89.41%
+Epoch 20/30
+
+Train Loss: 0.06144 | Train Acc: 97.72%
+Test Loss: 0.44582 | Test Acc: 89.44%
+Epoch 21/30
+
+Train Loss: 0.06418 | Train Acc: 97.59%
+Test Loss: 0.46800 | Test Acc: 89.57%
+Epoch 22/30
+
+Train Loss: 0.05863 | Train Acc: 97.83%
+Test Loss: 0.46609 | Test Acc: 89.43%
+Epoch 23/30
+
+Train Loss: 0.05676 | Train Acc: 97.88%
+Test Loss: 0.49436 | Test Acc: 88.76%
+Epoch 24/30
+
+Train Loss: 0.04415 | Train Acc: 98.29%
+Test Loss: 0.51660 | Test Acc: 89.48%
+Epoch 25/30
+
+Train Loss: 0.04071 | Train Acc: 98.46%
+Test Loss: 0.50585 | Test Acc: 89.49%
+Epoch 26/30
+
+Train Loss: 0.03883 | Train Acc: 98.54%
+Test Loss: 0.48708 | Test Acc: 89.66%
+Epoch 27/30
+
+Train Loss: 0.03714 | Train Acc: 98.62%
+Test Loss: 0.50298 | Test Acc: 89.69%
+Epoch 28/30
+
+Train Loss: 0.03187 | Train Acc: 98.82%
+Test Loss: 0.54240 | Test Acc: 88.57%
+Epoch 29/30
+
+Train Loss: 0.03018 | Train Acc: 98.92%
+Test Loss: 0.60598 | Test Acc: 88.03%
+Epoch 30/30
+
+Train Loss: 0.02710 | Train Acc: 99.01%
+Test Loss: 0.58562 | Test Acc: 88.70%
+(1, 28, 28)
+evaluating...
+==============================Starting Ablation Study 2 Normal/Average/Video batch_size=64 ==================== 
+Epoch 1/30
+
+Train Loss: 0.62532 | Train Acc: 77.31%
+Test Loss: 0.44939 | Test Acc: 83.79%
+Epoch 2/30
+
+Train Loss: 0.38727 | Train Acc: 85.97%
+Test Loss: 0.38759 | Test Acc: 86.01%
+Epoch 3/30
+
+Train Loss: 0.34724 | Train Acc: 87.51%
+Test Loss: 0.36901 | Test Acc: 86.80%
+Epoch 4/30
+
+Train Loss: 0.32453 | Train Acc: 88.32%
+Test Loss: 0.35509 | Test Acc: 87.33%
+Epoch 5/30
+
+Train Loss: 0.30859 | Train Acc: 88.84%
+Test Loss: 0.33892 | Test Acc: 88.01%
+Epoch 6/30
+
+Train Loss: 0.29456 | Train Acc: 89.41%
+Test Loss: 0.32939 | Test Acc: 88.41%
+Epoch 7/30
+
+Train Loss: 0.28275 | Train Acc: 89.87%
+Test Loss: 0.31806 | Test Acc: 88.79%
+Epoch 8/30
+
+Train Loss: 0.27151 | Train Acc: 90.29%
+Test Loss: 0.31198 | Test Acc: 89.00%
+Epoch 9/30
+
+Train Loss: 0.26143 | Train Acc: 90.57%
+Test Loss: 0.30552 | Test Acc: 89.33%
+Epoch 10/30
+
+Train Loss: 0.25335 | Train Acc: 90.82%
+Test Loss: 0.30070 | Test Acc: 89.54%
+Epoch 11/30
+
+Train Loss: 0.24626 | Train Acc: 91.09%
+Test Loss: 0.29483 | Test Acc: 89.55%
+Epoch 12/30
+
+Train Loss: 0.23951 | Train Acc: 91.29%
+Test Loss: 0.29105 | Test Acc: 89.78%
+Epoch 13/30
+
+Train Loss: 0.23361 | Train Acc: 91.53%
+Test Loss: 0.28950 | Test Acc: 90.04%
+Epoch 14/30
+
+Train Loss: 0.22857 | Train Acc: 91.67%
+Test Loss: 0.28625 | Test Acc: 90.18%
+Epoch 15/30
+
+Train Loss: 0.22352 | Train Acc: 91.88%
+Test Loss: 0.28259 | Test Acc: 90.33%
+Epoch 16/30
+
+Train Loss: 0.21921 | Train Acc: 92.02%
+Test Loss: 0.28258 | Test Acc: 90.35%
+Epoch 17/30
+
+Train Loss: 0.21491 | Train Acc: 92.23%
+Test Loss: 0.28395 | Test Acc: 90.39%
+Epoch 18/30
+
+Train Loss: 0.21128 | Train Acc: 92.40%
+Test Loss: 0.28105 | Test Acc: 90.50%
+Epoch 19/30
+
+Train Loss: 0.20839 | Train Acc: 92.48%
+Test Loss: 0.27896 | Test Acc: 90.41%
+Epoch 20/30
+
+Train Loss: 0.20517 | Train Acc: 92.59%
+Test Loss: 0.27957 | Test Acc: 90.55%
+Epoch 21/30
+
+Train Loss: 0.20221 | Train Acc: 92.68%
+Test Loss: 0.27825 | Test Acc: 90.34%
+Epoch 22/30
+
+Train Loss: 0.19966 | Train Acc: 92.78%
+Test Loss: 0.27663 | Test Acc: 90.54%
+Epoch 23/30
+
+Train Loss: 0.19682 | Train Acc: 92.93%
+Test Loss: 0.28266 | Test Acc: 90.44%
+Epoch 24/30
+
+Train Loss: 0.19461 | Train Acc: 92.99%
+Test Loss: 0.28343 | Test Acc: 90.45%
+Epoch 25/30
+
+Train Loss: 0.19261 | Train Acc: 93.06%
+Test Loss: 0.28684 | Test Acc: 90.48%
+Epoch 26/30
+
+Train Loss: 0.19018 | Train Acc: 93.14%
+Test Loss: 0.28491 | Test Acc: 90.50%
+Epoch 27/30
+
+Train Loss: 0.18824 | Train Acc: 93.25%
+Test Loss: 0.29084 | Test Acc: 90.35%
+Epoch 28/30
+
+Train Loss: 0.18629 | Train Acc: 93.27%
+Test Loss: 0.28983 | Test Acc: 90.39%
+Epoch 29/30
+
+Train Loss: 0.18465 | Train Acc: 93.29%
+Test Loss: 0.29301 | Test Acc: 90.50%
+Epoch 30/30
+
+Train Loss: 0.18271 | Train Acc: 93.38%
+Test Loss: 0.29268 | Test Acc: 90.41%
+(1, 28, 28)
+evaluating...
+==============================Starting Ablation Study 2 Normal/Average/Video batch_size=256 ==================== 
+Epoch 1/30
+
+Train Loss: 0.87776 | Train Acc: 68.82%
+Test Loss: 0.57116 | Test Acc: 79.12%
+Epoch 2/30
+
+Train Loss: 0.49389 | Train Acc: 82.22%
+Test Loss: 0.47759 | Test Acc: 82.86%
+Epoch 3/30
+
+Train Loss: 0.42120 | Train Acc: 84.72%
+Test Loss: 0.44606 | Test Acc: 84.38%
+Epoch 4/30
+
+Train Loss: 0.38695 | Train Acc: 85.98%
+Test Loss: 0.42242 | Test Acc: 85.54%
+Epoch 5/30
+
+Train Loss: 0.36581 | Train Acc: 86.77%
+Test Loss: 0.40442 | Test Acc: 86.11%
+Epoch 6/30
+
+Train Loss: 0.35100 | Train Acc: 87.33%
+Test Loss: 0.38949 | Test Acc: 86.51%
+Epoch 7/30
+
+Train Loss: 0.33935 | Train Acc: 87.78%
+Test Loss: 0.37795 | Test Acc: 87.05%
+Epoch 8/30
+
+Train Loss: 0.33002 | Train Acc: 88.12%
+Test Loss: 0.37213 | Test Acc: 87.25%
+Epoch 9/30
+
+Train Loss: 0.32222 | Train Acc: 88.46%
+Test Loss: 0.36702 | Test Acc: 87.41%
+Epoch 10/30
+
+Train Loss: 0.31495 | Train Acc: 88.78%
+Test Loss: 0.36099 | Test Acc: 87.67%
+Epoch 11/30
+
+Train Loss: 0.30817 | Train Acc: 89.00%
+Test Loss: 0.35416 | Test Acc: 87.72%
+Epoch 12/30
+
+Train Loss: 0.30226 | Train Acc: 89.18%
+Test Loss: 0.35022 | Test Acc: 87.80%
+Epoch 13/30
+
+Train Loss: 0.29654 | Train Acc: 89.43%
+Test Loss: 0.34750 | Test Acc: 87.82%
+Epoch 14/30
+
+Train Loss: 0.29156 | Train Acc: 89.61%
+Test Loss: 0.34528 | Test Acc: 87.93%
+Epoch 15/30
+
+Train Loss: 0.28671 | Train Acc: 89.79%
+Test Loss: 0.34286 | Test Acc: 88.00%
+Epoch 16/30
+
+Train Loss: 0.28255 | Train Acc: 89.90%
+Test Loss: 0.33885 | Test Acc: 88.06%
+Epoch 17/30
+
+Train Loss: 0.27855 | Train Acc: 90.07%
+Test Loss: 0.33579 | Test Acc: 88.31%
+Epoch 18/30
+
+Train Loss: 0.27464 | Train Acc: 90.18%
+Test Loss: 0.33475 | Test Acc: 88.26%
+Epoch 19/30
+
+Train Loss: 0.27099 | Train Acc: 90.35%
+Test Loss: 0.33248 | Test Acc: 88.29%
+Epoch 20/30
+
+Train Loss: 0.26739 | Train Acc: 90.50%
+Test Loss: 0.33017 | Test Acc: 88.22%
+Epoch 21/30
+
+Train Loss: 0.26379 | Train Acc: 90.60%
+Test Loss: 0.32679 | Test Acc: 88.40%
+Epoch 22/30
+
+Train Loss: 0.26046 | Train Acc: 90.69%
+Test Loss: 0.32471 | Test Acc: 88.49%
+Epoch 23/30
+
+Train Loss: 0.25712 | Train Acc: 90.80%
+Test Loss: 0.32489 | Test Acc: 88.59%
+Epoch 24/30
+
+Train Loss: 0.25423 | Train Acc: 90.87%
+Test Loss: 0.32069 | Test Acc: 89.07%
+Epoch 25/30
+
+Train Loss: 0.25096 | Train Acc: 91.02%
+Test Loss: 0.31393 | Test Acc: 89.23%
+Epoch 26/30
+
+Train Loss: 0.24783 | Train Acc: 91.11%
+Test Loss: 0.31102 | Test Acc: 89.38%
+Epoch 27/30
+
+Train Loss: 0.24503 | Train Acc: 91.13%
+Test Loss: 0.30934 | Test Acc: 89.57%
+Epoch 28/30
+
+Train Loss: 0.24206 | Train Acc: 91.26%
+Test Loss: 0.30638 | Test Acc: 89.66%
+Epoch 29/30
+
+Train Loss: 0.23920 | Train Acc: 91.41%
+Test Loss: 0.30507 | Test Acc: 89.73%
+Epoch 30/30
+
+Train Loss: 0.23675 | Train Acc: 91.46%
+Test Loss: 0.29635 | Test Acc: 89.94%
+(1, 28, 28)
+evaluating...
+==============================Starting Ablation Study 2 Normal/Average/Video batch_size=1024 ==================== 
+Epoch 1/30
+
+Train Loss: 1.44542 | Train Acc: 50.50%
+Test Loss: 0.79203 | Test Acc: 71.98%
+Epoch 2/30
+
+Train Loss: 0.69466 | Train Acc: 75.25%
+Test Loss: 0.63857 | Test Acc: 77.66%
+Epoch 3/30
+
+Train Loss: 0.58303 | Train Acc: 79.06%
+Test Loss: 0.56283 | Test Acc: 79.69%
+Epoch 4/30
+
+Train Loss: 0.52146 | Train Acc: 81.02%
+Test Loss: 0.51544 | Test Acc: 81.10%
+Epoch 5/30
+
+Train Loss: 0.47206 | Train Acc: 82.94%
+Test Loss: 0.47314 | Test Acc: 82.93%
+Epoch 6/30
+
+Train Loss: 0.43599 | Train Acc: 84.21%
+Test Loss: 0.44404 | Test Acc: 83.94%
+Epoch 7/30
+
+Train Loss: 0.41285 | Train Acc: 85.10%
+Test Loss: 0.42668 | Test Acc: 84.80%
+Epoch 8/30
+
+Train Loss: 0.39668 | Train Acc: 85.62%
+Test Loss: 0.41557 | Test Acc: 85.15%
+Epoch 9/30
+
+Train Loss: 0.38480 | Train Acc: 86.11%
+Test Loss: 0.40699 | Test Acc: 85.36%
+Epoch 10/30
+
+Train Loss: 0.37571 | Train Acc: 86.45%
+Test Loss: 0.40066 | Test Acc: 85.55%
+Epoch 11/30
+
+Train Loss: 0.36846 | Train Acc: 86.70%
+Test Loss: 0.39512 | Test Acc: 85.70%
+Epoch 12/30
+
+Train Loss: 0.36252 | Train Acc: 86.85%
+Test Loss: 0.38888 | Test Acc: 85.94%
+Epoch 13/30
+
+Train Loss: 0.35717 | Train Acc: 87.06%
+Test Loss: 0.38243 | Test Acc: 86.27%
+Epoch 14/30
+
+Train Loss: 0.35194 | Train Acc: 87.25%
+Test Loss: 0.37760 | Test Acc: 86.49%
+Epoch 15/30
+
+Train Loss: 0.34762 | Train Acc: 87.41%
+Test Loss: 0.37340 | Test Acc: 86.72%
+Epoch 16/30
+
+Train Loss: 0.34382 | Train Acc: 87.58%
+Test Loss: 0.37057 | Test Acc: 86.78%
+Epoch 17/30
+
+Train Loss: 0.33944 | Train Acc: 87.75%
+Test Loss: 0.36843 | Test Acc: 86.79%
+Epoch 18/30
+
+Train Loss: 0.33583 | Train Acc: 87.84%
+Test Loss: 0.36664 | Test Acc: 86.88%
+Epoch 19/30
+
+Train Loss: 0.33277 | Train Acc: 87.92%
+Test Loss: 0.36432 | Test Acc: 87.01%
+Epoch 20/30
+
+Train Loss: 0.33015 | Train Acc: 88.02%
+Test Loss: 0.36052 | Test Acc: 87.23%
+Epoch 21/30
+
+Train Loss: 0.32739 | Train Acc: 88.15%
+Test Loss: 0.35512 | Test Acc: 87.54%
+Epoch 22/30
+
+Train Loss: 0.32387 | Train Acc: 88.24%
+Test Loss: 0.35192 | Test Acc: 87.72%
+Epoch 23/30
+
+Train Loss: 0.32026 | Train Acc: 88.35%
+Test Loss: 0.34995 | Test Acc: 87.75%
+Epoch 24/30
+
+Train Loss: 0.31696 | Train Acc: 88.49%
+Test Loss: 0.34802 | Test Acc: 87.71%
+Epoch 25/30
+
+Train Loss: 0.31394 | Train Acc: 88.62%
+Test Loss: 0.34626 | Test Acc: 87.87%
+Epoch 26/30
+
+Train Loss: 0.31115 | Train Acc: 88.74%
+Test Loss: 0.34470 | Test Acc: 87.89%
+Epoch 27/30
+
+Train Loss: 0.30833 | Train Acc: 88.86%
+Test Loss: 0.34270 | Test Acc: 87.93%
+Epoch 28/30
+
+Train Loss: 0.30569 | Train Acc: 88.96%
+Test Loss: 0.34110 | Test Acc: 88.02%
+Epoch 29/30
+
+Train Loss: 0.30313 | Train Acc: 89.02%
+Test Loss: 0.33955 | Test Acc: 88.04%
+Epoch 30/30
+
+Train Loss: 0.30066 | Train Acc: 89.09%
+Test Loss: 0.33807 | Test Acc: 88.17%
+(1, 28, 28)
+evaluating...
+==============================Starting Ablation Study 2 Normal/Average/Video batch_size=2048 ==================== 
+Epoch 1/30
+
+Train Loss: 1.95541 | Train Acc: 33.98%
+Test Loss: 1.09610 | Test Acc: 58.48%
+Epoch 2/30
+
+Train Loss: 0.87901 | Train Acc: 67.96%
+Test Loss: 0.77918 | Test Acc: 72.47%
+Epoch 3/30
+
+Train Loss: 0.71706 | Train Acc: 74.66%
+Test Loss: 0.69128 | Test Acc: 75.27%
+Epoch 4/30
+
+Train Loss: 0.64167 | Train Acc: 77.31%
+Test Loss: 0.63991 | Test Acc: 76.81%
+Epoch 5/30
+
+Train Loss: 0.58669 | Train Acc: 79.25%
+Test Loss: 0.59682 | Test Acc: 78.10%
+Epoch 6/30
+
+Train Loss: 0.54810 | Train Acc: 80.38%
+Test Loss: 0.56886 | Test Acc: 78.81%
+Epoch 7/30
+
+Train Loss: 0.51831 | Train Acc: 81.30%
+Test Loss: 0.54158 | Test Acc: 79.87%
+Epoch 8/30
+
+Train Loss: 0.49510 | Train Acc: 82.08%
+Test Loss: 0.52455 | Test Acc: 80.66%
+Epoch 9/30
+
+Train Loss: 0.47636 | Train Acc: 82.78%
+Test Loss: 0.50874 | Test Acc: 81.45%
+Epoch 10/30
+
+Train Loss: 0.46111 | Train Acc: 83.29%
+Test Loss: 0.49640 | Test Acc: 81.88%
+Epoch 11/30
+
+Train Loss: 0.44822 | Train Acc: 83.73%
+Test Loss: 0.48532 | Test Acc: 82.20%
+Epoch 12/30
+
+Train Loss: 0.43743 | Train Acc: 84.17%
+Test Loss: 0.47643 | Test Acc: 82.55%
+Epoch 13/30
+
+Train Loss: 0.42813 | Train Acc: 84.57%
+Test Loss: 0.46844 | Test Acc: 82.94%
+Epoch 14/30
+
+Train Loss: 0.41997 | Train Acc: 84.87%
+Test Loss: 0.46170 | Test Acc: 83.26%
+Epoch 15/30
+
+Train Loss: 0.41336 | Train Acc: 85.16%
+Test Loss: 0.45566 | Test Acc: 83.56%
+Epoch 16/30
+
+Train Loss: 0.40793 | Train Acc: 85.31%
+Test Loss: 0.44548 | Test Acc: 84.02%
+Epoch 17/30
+
+Train Loss: 0.40280 | Train Acc: 85.60%
+Test Loss: 0.43025 | Test Acc: 84.61%
+Epoch 18/30
+
+Train Loss: 0.39620 | Train Acc: 85.85%
+Test Loss: 0.42267 | Test Acc: 84.92%
+Epoch 19/30
+
+Train Loss: 0.39072 | Train Acc: 86.05%
+Test Loss: 0.41801 | Test Acc: 85.30%
+Epoch 20/30
+
+Train Loss: 0.38628 | Train Acc: 86.20%
+Test Loss: 0.41336 | Test Acc: 85.42%
+Epoch 21/30
+
+Train Loss: 0.38201 | Train Acc: 86.32%
+Test Loss: 0.40899 | Test Acc: 85.60%
+Epoch 22/30
+
+Train Loss: 0.37804 | Train Acc: 86.46%
+Test Loss: 0.40530 | Test Acc: 85.82%
+Epoch 23/30
+
+Train Loss: 0.37433 | Train Acc: 86.58%
+Test Loss: 0.40199 | Test Acc: 85.90%
+Epoch 24/30
+
+Train Loss: 0.37090 | Train Acc: 86.69%
+Test Loss: 0.39877 | Test Acc: 86.13%
+Epoch 25/30
+
+Train Loss: 0.36756 | Train Acc: 86.83%
+Test Loss: 0.39560 | Test Acc: 86.29%
+Epoch 26/30
+
+Train Loss: 0.36436 | Train Acc: 86.93%
+Test Loss: 0.39237 | Test Acc: 86.37%
+Epoch 27/30
+
+Train Loss: 0.36114 | Train Acc: 87.05%
+Test Loss: 0.38967 | Test Acc: 86.44%
+Epoch 28/30
+
+Train Loss: 0.35814 | Train Acc: 87.13%
+Test Loss: 0.38745 | Test Acc: 86.52%
+Epoch 29/30
+
+Train Loss: 0.35546 | Train Acc: 87.20%
+Test Loss: 0.38484 | Test Acc: 86.59%
+Epoch 30/30
+
+Train Loss: 0.35262 | Train Acc: 87.32%
+Test Loss: 0.38199 | Test Acc: 86.71%
+(1, 28, 28)
+evaluating...
+==============================Starting Ablation Study 3 Resnet/Average/Video/SVHN batch_size=64 ==================== 
+Downloading http://ufldl.stanford.edu/housenumbers/train_32x32.mat to data\train_32x32.mat
+Downloading http://ufldl.stanford.edu/housenumbers/test_32x32.mat to data\test_32x32.mat
+Epoch 1/30
+
+Train Loss: 0.56048 | Train Acc: 82.80%
+Test Loss: 0.40738 | Test Acc: 87.95%
+Epoch 2/30
+
+Train Loss: 0.31287 | Train Acc: 90.94%
+Test Loss: 0.31444 | Test Acc: 90.87%
+Epoch 3/30
+
+Train Loss: 0.25619 | Train Acc: 92.69%
+Test Loss: 0.31676 | Test Acc: 90.80%
+Epoch 4/30
+
+Train Loss: 0.21348 | Train Acc: 93.92%
+Test Loss: 0.31791 | Test Acc: 90.97%
+Epoch 5/30
+
+Train Loss: 0.17662 | Train Acc: 94.91%
+Test Loss: 0.26843 | Test Acc: 92.67%
+Epoch 6/30
+
+Train Loss: 0.15716 | Train Acc: 95.52%
+Test Loss: 0.26339 | Test Acc: 92.60%
+Epoch 7/30
+
+Train Loss: 0.12221 | Train Acc: 96.61%
+Test Loss: 0.28579 | Test Acc: 92.75%
+Epoch 8/30
+
+Train Loss: 0.10393 | Train Acc: 97.00%
+Test Loss: 0.29964 | Test Acc: 92.34%
+Epoch 9/30
+
+Train Loss: 0.08558 | Train Acc: 97.50%
+Test Loss: 0.35068 | Test Acc: 91.62%
+Epoch 10/30
+
+Train Loss: 0.11049 | Train Acc: 96.74%
+Test Loss: 0.29931 | Test Acc: 91.93%
+Epoch 11/30
+
+Train Loss: 0.07608 | Train Acc: 97.69%
+Test Loss: 0.29507 | Test Acc: 93.10%
+Epoch 12/30
+
+Train Loss: 0.04995 | Train Acc: 98.49%
+Test Loss: 0.30955 | Test Acc: 93.11%
+Epoch 13/30
+
+Train Loss: 0.04852 | Train Acc: 98.47%
+Test Loss: 0.33411 | Test Acc: 92.78%
+Epoch 14/30
+
+Train Loss: 0.04561 | Train Acc: 98.56%
+Test Loss: 0.34148 | Test Acc: 92.92%
+Epoch 15/30
+
+Train Loss: 0.03954 | Train Acc: 98.68%
+Test Loss: 0.35817 | Test Acc: 93.02%
+Epoch 16/30
+
+Train Loss: 0.04120 | Train Acc: 98.64%
+Test Loss: 0.35060 | Test Acc: 93.08%
+Epoch 17/30
+
+Train Loss: 0.03658 | Train Acc: 98.79%
+Test Loss: 0.38564 | Test Acc: 92.37%
+Epoch 18/30
+
+Train Loss: 0.03232 | Train Acc: 98.93%
+Test Loss: 0.36005 | Test Acc: 92.80%
+Epoch 19/30
+
+Train Loss: 0.03062 | Train Acc: 98.98%
+Test Loss: 0.33870 | Test Acc: 93.36%
+Epoch 20/30
+
+Train Loss: 0.02730 | Train Acc: 99.06%
+Test Loss: 0.34914 | Test Acc: 93.28%
+Epoch 21/30
+
+Train Loss: 0.03748 | Train Acc: 98.85%
+Test Loss: 0.36054 | Test Acc: 93.35%
+Epoch 22/30
+
+Train Loss: 0.01927 | Train Acc: 99.36%
+Test Loss: 0.36363 | Test Acc: 93.28%
+Epoch 23/30
+
+Train Loss: 0.02245 | Train Acc: 99.25%
+Test Loss: 0.44892 | Test Acc: 91.80%
+Epoch 24/30
+
+Train Loss: 0.02300 | Train Acc: 99.27%
+Test Loss: 0.40902 | Test Acc: 92.43%
+Epoch 25/30
+
+Train Loss: 0.02188 | Train Acc: 99.29%
+Test Loss: 0.36301 | Test Acc: 93.51%
+Epoch 26/30
+
+Train Loss: 0.02088 | Train Acc: 99.34%
+Test Loss: 0.40281 | Test Acc: 93.01%
+Epoch 27/30
+
+Train Loss: 0.02074 | Train Acc: 99.34%
+Test Loss: 0.37671 | Test Acc: 93.07%
+Epoch 28/30
+
+Train Loss: 0.01821 | Train Acc: 99.43%
+Test Loss: 0.40545 | Test Acc: 92.64%
+Epoch 29/30
+
+Train Loss: 0.03417 | Train Acc: 98.97%
+Test Loss: 0.33590 | Test Acc: 93.22%
+Epoch 30/30
+
+Train Loss: 0.01419 | Train Acc: 99.58%
+Test Loss: 0.38502 | Test Acc: 93.43%
+(3, 32, 32)
+evaluating...
+==============================Starting Ablation Study 3 Resnet/Average/Video/SVHN batch_size=256 ==================== 
+Using downloaded and verified file: data\train_32x32.mat
+Using downloaded and verified file: data\test_32x32.mat
+Epoch 1/30
+
+Train Loss: 0.52760 | Train Acc: 83.31%
+Test Loss: 0.31641 | Test Acc: 90.79%
+Epoch 2/30
+
+Train Loss: 0.27431 | Train Acc: 91.88%
+Test Loss: 0.37260 | Test Acc: 88.77%
+Epoch 3/30
+
+Train Loss: 0.22044 | Train Acc: 93.56%
+Test Loss: 0.28811 | Test Acc: 91.62%
+Epoch 4/30
+
+Train Loss: 0.18233 | Train Acc: 94.82%
+Test Loss: 0.29151 | Test Acc: 91.52%
+Epoch 5/30
+
+Train Loss: 0.15835 | Train Acc: 95.47%
+Test Loss: 0.31143 | Test Acc: 91.18%
+Epoch 6/30
+
+Train Loss: 0.13821 | Train Acc: 96.08%
+Test Loss: 0.31662 | Test Acc: 91.41%
+Epoch 7/30
+
+Train Loss: 0.12206 | Train Acc: 96.52%
+Test Loss: 0.30230 | Test Acc: 91.89%
+Epoch 8/30
+
+Train Loss: 0.10309 | Train Acc: 97.05%
+Test Loss: 0.30795 | Test Acc: 91.90%
+Epoch 9/30
+
+Train Loss: 0.09498 | Train Acc: 97.29%
+Test Loss: 0.32242 | Test Acc: 91.64%
+Epoch 10/30
+
+Train Loss: 0.08167 | Train Acc: 97.62%
+Test Loss: 0.31149 | Test Acc: 92.41%
+Epoch 11/30
+
+Train Loss: 0.07185 | Train Acc: 97.95%
+Test Loss: 0.29286 | Test Acc: 92.89%
+Epoch 12/30
+
+Train Loss: 0.06733 | Train Acc: 98.05%
+Test Loss: 0.33563 | Test Acc: 91.99%
+Epoch 13/30
+
+Train Loss: 0.05560 | Train Acc: 98.39%
+Test Loss: 0.38757 | Test Acc: 91.22%
+Epoch 14/30
+
+Train Loss: 0.05274 | Train Acc: 98.43%
+Test Loss: 0.36410 | Test Acc: 92.07%
+Epoch 15/30
+
+Train Loss: 0.04745 | Train Acc: 98.61%
+Test Loss: 0.37657 | Test Acc: 92.33%
+Epoch 16/30
+
+Train Loss: 0.04343 | Train Acc: 98.68%
+Test Loss: 0.34864 | Test Acc: 92.53%
+Epoch 17/30
+
+Train Loss: 0.03598 | Train Acc: 98.91%
+Test Loss: 0.40168 | Test Acc: 91.93%
+Epoch 18/30
+
+Train Loss: 0.03407 | Train Acc: 98.91%
+Test Loss: 0.34180 | Test Acc: 93.02%
+Epoch 19/30
+
+Train Loss: 0.03296 | Train Acc: 98.98%
+Test Loss: 0.36088 | Test Acc: 92.67%
+Epoch 20/30
+
+Train Loss: 0.03442 | Train Acc: 98.91%
+Test Loss: 0.42265 | Test Acc: 91.80%
+Epoch 21/30
+
+Train Loss: 0.02768 | Train Acc: 99.12%
+Test Loss: 0.37770 | Test Acc: 92.49%
+Epoch 22/30
+
+Train Loss: 0.02412 | Train Acc: 99.23%
+Test Loss: 0.37479 | Test Acc: 92.91%
+Epoch 23/30
+
+Train Loss: 0.02474 | Train Acc: 99.22%
+Test Loss: 0.35221 | Test Acc: 93.36%
+Epoch 24/30
+
+Train Loss: 0.02278 | Train Acc: 99.25%
+Test Loss: 0.40054 | Test Acc: 92.32%
+Epoch 25/30
+
+Train Loss: 0.02332 | Train Acc: 99.25%
+Test Loss: 0.46450 | Test Acc: 90.93%
+Epoch 26/30
+
+Train Loss: 0.02113 | Train Acc: 99.32%
+Test Loss: 0.38009 | Test Acc: 92.95%
+Epoch 27/30
+
+Train Loss: 0.01820 | Train Acc: 99.36%
+Test Loss: 0.37160 | Test Acc: 93.33%
+Epoch 28/30
+
+Train Loss: 0.03350 | Train Acc: 98.98%
+Test Loss: 0.32848 | Test Acc: 93.00%
+Epoch 29/30
+
+Train Loss: 0.02313 | Train Acc: 99.28%
+Test Loss: 0.34152 | Test Acc: 93.70%
+Epoch 30/30
+
+Train Loss: 0.01269 | Train Acc: 99.58%
+Test Loss: 0.39417 | Test Acc: 93.37%
+(3, 32, 32)
+evaluating...
+==============================Starting Ablation Study 3 Resnet/Average/Video/SVHN batch_size=1024 ==================== 
+Using downloaded and verified file: data\train_32x32.mat
+Using downloaded and verified file: data\test_32x32.mat
+Epoch 1/30
+
+Train Loss: 0.62075 | Train Acc: 79.94%
+Test Loss: 0.33964 | Test Acc: 89.89%
+Epoch 2/30
+
+Train Loss: 0.26402 | Train Acc: 92.10%
+Test Loss: 0.27471 | Test Acc: 91.97%
+Epoch 3/30
+
+Train Loss: 0.20909 | Train Acc: 93.85%
+Test Loss: 0.31423 | Test Acc: 90.90%
+Epoch 4/30
+
+Train Loss: 0.17929 | Train Acc: 94.72%
+Test Loss: 0.32448 | Test Acc: 90.62%
+Epoch 5/30
+
+Train Loss: 0.14938 | Train Acc: 95.68%
+Test Loss: 0.33644 | Test Acc: 90.42%
+Epoch 6/30
+
+Train Loss: 0.13122 | Train Acc: 96.18%
+Test Loss: 0.39492 | Test Acc: 89.47%
+Epoch 7/30
+
+Train Loss: 0.11653 | Train Acc: 96.60%
+Test Loss: 0.34769 | Test Acc: 90.84%
+Epoch 8/30
+
+Train Loss: 0.10451 | Train Acc: 96.95%
+Test Loss: 0.34587 | Test Acc: 91.29%
+Epoch 9/30
+
+Train Loss: 0.08787 | Train Acc: 97.48%
+Test Loss: 0.32988 | Test Acc: 91.77%
+Epoch 10/30
+
+Train Loss: 0.07793 | Train Acc: 97.67%
+Test Loss: 0.35779 | Test Acc: 91.32%
+Epoch 11/30
+
+Train Loss: 0.07004 | Train Acc: 97.86%
+Test Loss: 0.35145 | Test Acc: 91.19%
+Epoch 12/30
+
+Train Loss: 0.06240 | Train Acc: 98.07%
+Test Loss: 0.38797 | Test Acc: 90.48%
+Epoch 13/30
+
+Train Loss: 0.04852 | Train Acc: 98.49%
+Test Loss: 0.40960 | Test Acc: 90.88%
+Epoch 14/30
+
+Train Loss: 0.04009 | Train Acc: 98.70%
+Test Loss: 0.38399 | Test Acc: 91.73%
+Epoch 15/30
+
+Train Loss: 0.03649 | Train Acc: 98.83%
+Test Loss: 0.36933 | Test Acc: 92.18%
+Epoch 16/30
+
+Train Loss: 0.03294 | Train Acc: 98.95%
+Test Loss: 0.40791 | Test Acc: 91.26%
+Epoch 17/30
+
+Train Loss: 0.03206 | Train Acc: 98.94%
+Test Loss: 0.36350 | Test Acc: 92.71%
+Epoch 18/30
+
+Train Loss: 0.02796 | Train Acc: 99.07%
+Test Loss: 0.36646 | Test Acc: 92.62%
+Epoch 19/30
+
+Train Loss: 0.02759 | Train Acc: 99.13%
+Test Loss: 0.37634 | Test Acc: 92.47%
+Epoch 20/30
+
+Train Loss: 0.02784 | Train Acc: 99.14%
+Test Loss: 0.38330 | Test Acc: 92.31%
+Epoch 21/30
+
+Train Loss: 0.02572 | Train Acc: 99.17%
+Test Loss: 0.40835 | Test Acc: 91.86%
+Epoch 22/30
+
+Train Loss: 0.02082 | Train Acc: 99.35%
+Test Loss: 0.35988 | Test Acc: 93.30%
+Epoch 23/30
+
+Train Loss: 0.01932 | Train Acc: 99.36%
+Test Loss: 0.40986 | Test Acc: 92.14%
+Epoch 24/30
+
+Train Loss: 0.02153 | Train Acc: 99.25%
+Test Loss: 0.36221 | Test Acc: 93.22%
+Epoch 25/30
+
+Train Loss: 0.01671 | Train Acc: 99.45%
+Test Loss: 0.37783 | Test Acc: 93.23%
+Epoch 26/30
+
+Train Loss: 0.01544 | Train Acc: 99.51%
+Test Loss: 0.37790 | Test Acc: 93.39%
+Epoch 27/30
+
+Train Loss: 0.01420 | Train Acc: 99.54%
+Test Loss: 0.34938 | Test Acc: 93.75%
+Epoch 28/30
+
+Train Loss: 0.01094 | Train Acc: 99.63%
+Test Loss: 0.39629 | Test Acc: 93.01%
+Epoch 29/30
+
+Train Loss: 0.01408 | Train Acc: 99.56%
+Test Loss: 0.38761 | Test Acc: 93.01%
+Epoch 30/30
+
+Train Loss: 0.01087 | Train Acc: 99.62%
+Test Loss: 0.38859 | Test Acc: 93.36%
+(3, 32, 32)
+evaluating...
+==============================Starting Ablation Study 3 Resnet/Average/Video/SVHN batch_size=2048 ==================== 
+Using downloaded and verified file: data\train_32x32.mat
+Using downloaded and verified file: data\test_32x32.mat
+Epoch 1/30
+
+Train Loss: 0.78058 | Train Acc: 74.30%
+Test Loss: 0.39659 | Test Acc: 88.43%
+Epoch 2/30
+
+Train Loss: 0.28053 | Train Acc: 91.57%
+Test Loss: 0.26537 | Test Acc: 91.99%
+Epoch 3/30
+
+Train Loss: 0.19948 | Train Acc: 94.13%
+Test Loss: 0.28395 | Test Acc: 91.56%
+Epoch 4/30
+
+Train Loss: 0.15920 | Train Acc: 95.31%
+Test Loss: 0.38435 | Test Acc: 88.70%
+Epoch 5/30
+
+Train Loss: 0.14959 | Train Acc: 95.50%
+Test Loss: 0.34531 | Test Acc: 90.03%
+Epoch 6/30
+
+Train Loss: 0.14464 | Train Acc: 95.60%
+Test Loss: 0.32229 | Test Acc: 91.21%
+Epoch 7/30
+
+Train Loss: 0.11828 | Train Acc: 96.47%
+Test Loss: 0.35281 | Test Acc: 91.07%
+Epoch 8/30
+
+Train Loss: 0.10086 | Train Acc: 96.99%
+Test Loss: 0.43295 | Test Acc: 89.57%
+Epoch 9/30
+
+Train Loss: 0.09112 | Train Acc: 97.21%
+Test Loss: 0.45249 | Test Acc: 89.00%
+Epoch 10/30
+
+Train Loss: 0.07517 | Train Acc: 97.71%
+Test Loss: 0.37922 | Test Acc: 90.81%
+Epoch 11/30
+
+Train Loss: 0.05809 | Train Acc: 98.21%
+Test Loss: 0.35907 | Test Acc: 91.64%
+Epoch 12/30
+
+Train Loss: 0.05286 | Train Acc: 98.32%
+Test Loss: 0.37818 | Test Acc: 91.59%
+Epoch 13/30
+
+Train Loss: 0.04989 | Train Acc: 98.39%
+Test Loss: 0.37210 | Test Acc: 91.98%
+Epoch 14/30
+
+Train Loss: 0.04438 | Train Acc: 98.56%
+Test Loss: 0.46366 | Test Acc: 90.63%
+Epoch 15/30
+
+Train Loss: 0.03681 | Train Acc: 98.82%
+Test Loss: 0.43962 | Test Acc: 91.21%
+Epoch 16/30
+
+Train Loss: 0.03341 | Train Acc: 98.93%
+Test Loss: 0.37821 | Test Acc: 92.54%
+Epoch 17/30
+
+Train Loss: 0.02817 | Train Acc: 99.08%
+Test Loss: 0.50868 | Test Acc: 90.35%
+Epoch 18/30
+
+Train Loss: 0.02487 | Train Acc: 99.21%
+Test Loss: 0.40807 | Test Acc: 92.31%
+Epoch 19/30
+
+Train Loss: 0.02004 | Train Acc: 99.31%
+Test Loss: 0.39351 | Test Acc: 92.65%
+Epoch 20/30
+
+Train Loss: 0.01720 | Train Acc: 99.44%
+Test Loss: 0.37429 | Test Acc: 93.02%
+Epoch 21/30
+
+Train Loss: 0.01413 | Train Acc: 99.55%
+Test Loss: 0.38858 | Test Acc: 93.02%
+Epoch 22/30
+
+Train Loss: 0.01460 | Train Acc: 99.53%
+Test Loss: 0.39477 | Test Acc: 92.90%
+Epoch 23/30
+
+Train Loss: 0.01272 | Train Acc: 99.57%
+Test Loss: 0.39759 | Test Acc: 92.90%
+Epoch 24/30
+
+Train Loss: 0.01360 | Train Acc: 99.57%
+Test Loss: 0.40695 | Test Acc: 92.77%
+Epoch 25/30
+
+Train Loss: 0.01101 | Train Acc: 99.63%
+Test Loss: 0.44074 | Test Acc: 92.42%
+Epoch 26/30
+
+Train Loss: 0.01194 | Train Acc: 99.60%
+Test Loss: 0.40311 | Test Acc: 92.98%
+Epoch 27/30
+
+Train Loss: 0.01363 | Train Acc: 99.55%
+Test Loss: 0.39198 | Test Acc: 92.91%
+Epoch 28/30
+
+Train Loss: 0.01266 | Train Acc: 99.59%
+Test Loss: 0.40590 | Test Acc: 92.78%
+Epoch 29/30
+
+Train Loss: 0.01129 | Train Acc: 99.64%
+Test Loss: 0.39229 | Test Acc: 93.29%
+Epoch 30/30
+
+Train Loss: 0.01042 | Train Acc: 99.67%
+Test Loss: 0.47649 | Test Acc: 92.15%
+(3, 32, 32)
+evaluating...
+==============================Starting Ablation Study 4 Resnet/NonAverage/Video batch_size=8 ==================== 
+Epoch 1/5
+
+Train Loss: 0.72675 | Train Acc: 74.86%
+Test Loss: 0.43003 | Test Acc: 84.75%
+Epoch 2/5
+
+Train Loss: 0.42579 | Train Acc: 85.14%
+Test Loss: 0.39172 | Test Acc: 87.11%
+Epoch 3/5
+
+Train Loss: 0.33921 | Train Acc: 87.93%
+Test Loss: 0.36579 | Test Acc: 87.64%
+Epoch 4/5
+
+Train Loss: 0.28300 | Train Acc: 89.78%
+Test Loss: 0.53127 | Test Acc: 87.16%
+Epoch 5/5
+
+Train Loss: 0.24932 | Train Acc: 90.81%
+Test Loss: 0.60841 | Test Acc: 86.77%
+evaluating...
+==============================Starting Ablation Study 4 Resnet/NonAverage/Video batch_size=64 ==================== 
+Epoch 1/5
+
+Train Loss: 0.48448 | Train Acc: 82.66%
+Test Loss: 0.43650 | Test Acc: 82.24%
+Epoch 2/5
+
+Train Loss: 0.32711 | Train Acc: 88.28%
+Test Loss: 0.45502 | Test Acc: 83.56%
+Epoch 3/5
+
+Train Loss: 0.27633 | Train Acc: 89.90%
+Test Loss: 0.34998 | Test Acc: 86.94%
+Epoch 4/5
+
+Train Loss: 0.24983 | Train Acc: 90.86%
+Test Loss: 0.30912 | Test Acc: 89.02%
+Epoch 5/5
+
+Train Loss: 0.21508 | Train Acc: 92.04%
+Test Loss: 0.30291 | Test Acc: 89.65%
+evaluating...
+Epoch 1/5
+
+Train Loss: 0.55426 | Train Acc: 79.88%
+Test Loss: 0.57996 | Test Acc: 77.29%
+Epoch 2/5
+
+Train Loss: 0.39643 | Train Acc: 85.52%
+Test Loss: 0.53786 | Test Acc: 78.78%
+Epoch 3/5
+
+Train Loss: 0.34680 | Train Acc: 87.01%
+Test Loss: 0.42203 | Test Acc: 83.73%
+Epoch 4/5
+
+Train Loss: 0.31624 | Train Acc: 88.08%
+Test Loss: 0.36472 | Test Acc: 86.27%
+Epoch 5/5
+
+Train Loss: 0.28772 | Train Acc: 89.12%
+Test Loss: 0.37563 | Test Acc: 86.39%
+==============================Starting Ablation Study 4 Resnet/NonAverage/Video batch_size=1024 ==================== 
+Epoch 1/5
+
+Train Loss: 0.53298 | Train Acc: 80.28%
+Test Loss: 0.38480 | Test Acc: 85.87%
+Epoch 2/5
+
+Train Loss: 0.31559 | Train Acc: 88.23%
+Test Loss: 0.36811 | Test Acc: 86.48%
+Epoch 3/5
+
+Train Loss: 0.26523 | Train Acc: 90.03%
+Test Loss: 0.38811 | Test Acc: 86.69%
+Epoch 4/5
+
+Train Loss: 0.23614 | Train Acc: 91.08%
+Test Loss: 0.32773 | Test Acc: 87.84%
+Epoch 5/5
+
+Train Loss: 0.21541 | Train Acc: 91.89%
+Test Loss: 0.36204 | Test Acc: 87.24%
+evaluating...
+Epoch 1/5
+
+Train Loss: 0.58873 | Train Acc: 78.24%
+Test Loss: 0.64036 | Test Acc: 77.02%
+Epoch 2/5
+
+Train Loss: 0.36915 | Train Acc: 86.10%
+Test Loss: 0.42457 | Test Acc: 84.57%
+Epoch 3/5
+
+Train Loss: 0.31951 | Train Acc: 88.00%
+Test Loss: 0.43481 | Test Acc: 84.84%
+Epoch 4/5
+
+Train Loss: 0.29262 | Train Acc: 88.89%
+Test Loss: 0.45708 | Test Acc: 84.44%
+Epoch 5/5
+
+Train Loss: 0.27496 | Train Acc: 89.64%
+Test Loss: 0.38992 | Test Acc: 86.38%
+==============================Starting Ablation Study 4 Resnet/NonAverage/Video batch_size=4096 ==================== 
+Epoch 1/5
+
+Train Loss: 0.83082 | Train Acc: 70.08%
+Test Loss: 1.26777 | Test Acc: 51.42%
+Epoch 2/5
+
+Train Loss: 0.38561 | Train Acc: 85.48%
+Test Loss: 1.14553 | Test Acc: 66.62%
+Epoch 3/5
+
+Train Loss: 0.30435 | Train Acc: 88.60%
+Test Loss: 0.58867 | Test Acc: 79.05%
+Epoch 4/5
+
+Train Loss: 0.26164 | Train Acc: 90.21%
+Test Loss: 0.36556 | Test Acc: 86.48%
+Epoch 5/5
+
+Train Loss: 0.22628 | Train Acc: 91.53%
+Test Loss: 0.33305 | Test Acc: 88.13%
+evaluating...
+Epoch 1/5
+
+Train Loss: 0.87758 | Train Acc: 68.37%
+Test Loss: 2.29094 | Test Acc: 37.13%
+Epoch 2/5
+
+Train Loss: 0.44469 | Train Acc: 83.27%
+Test Loss: 1.05975 | Test Acc: 66.05%
+Epoch 3/5
+
+Train Loss: 0.36899 | Train Acc: 86.15%
+Test Loss: 0.68455 | Test Acc: 75.55%
+Epoch 4/5
+
+Train Loss: 0.31911 | Train Acc: 87.90%
+Test Loss: 0.45184 | Test Acc: 82.95%
+Epoch 5/5
+
+Train Loss: 0.28633 | Train Acc: 89.22%
+Test Loss: 0.42233 | Test Acc: 84.50%
+==============================Starting Ablation Study 5 Resnet/NonAverage/Video seed=10 ==================== 
+Epoch 1/5
+
+Train Loss: 0.51194 | Train Acc: 81.34%
+Test Loss: 0.42152 | Test Acc: 84.30%
+Epoch 2/5
+
+Train Loss: 0.31561 | Train Acc: 88.29%
+Test Loss: 0.35155 | Test Acc: 86.96%
+Epoch 3/5
+
+Train Loss: 0.26424 | Train Acc: 90.07%
+Test Loss: 0.35468 | Test Acc: 86.63%
+Epoch 4/5
+
+Train Loss: 0.23338 | Train Acc: 91.15%
+Test Loss: 0.34285 | Test Acc: 88.52%
+Epoch 5/5
+
+Train Loss: 0.21552 | Train Acc: 91.84%
+Test Loss: 0.36976 | Test Acc: 87.80%
+evaluating...
+Epoch 1/5
+
+Train Loss: 0.57740 | Train Acc: 78.75%
+Test Loss: 0.44498 | Test Acc: 82.99%
+Epoch 2/5
+
+Train Loss: 0.36589 | Train Acc: 86.27%
+Test Loss: 0.41992 | Test Acc: 84.80%
+Epoch 3/5
+
+Train Loss: 0.31709 | Train Acc: 87.95%
+Test Loss: 0.41148 | Test Acc: 84.92%
+Epoch 4/5
+
+Train Loss: 0.28708 | Train Acc: 89.06%
+Test Loss: 0.44371 | Test Acc: 84.22%
+Epoch 5/5
+
+Train Loss: 0.26879 | Train Acc: 89.62%
+Test Loss: 0.54092 | Test Acc: 81.53%
+==============================Starting Ablation Study 5 Resnet/NonAverage/Video seed=42 ==================== 
+Epoch 1/5
+
+Train Loss: 0.53298 | Train Acc: 80.28%
+Test Loss: 0.38480 | Test Acc: 85.87%
+Epoch 2/5
+
+Train Loss: 0.31559 | Train Acc: 88.23%
+Test Loss: 0.36811 | Test Acc: 86.48%
+Epoch 3/5
+
+Train Loss: 0.26523 | Train Acc: 90.03%
+Test Loss: 0.38811 | Test Acc: 86.69%
+Epoch 4/5
+
+Train Loss: 0.23614 | Train Acc: 91.08%
+Test Loss: 0.32773 | Test Acc: 87.84%
+Epoch 5/5
+
+Train Loss: 0.21541 | Train Acc: 91.89%
+Test Loss: 0.36204 | Test Acc: 87.24%
+evaluating...
+Epoch 1/5
+
+Train Loss: 0.58873 | Train Acc: 78.24%
+Test Loss: 0.64036 | Test Acc: 77.02%
+Epoch 2/5
+
+Train Loss: 0.36915 | Train Acc: 86.10%
+Test Loss: 0.42457 | Test Acc: 84.57%
+Epoch 3/5
+
+Train Loss: 0.31951 | Train Acc: 88.00%
+Test Loss: 0.43481 | Test Acc: 84.84%
+Epoch 4/5
+
+Train Loss: 0.29262 | Train Acc: 88.89%
+Test Loss: 0.45708 | Test Acc: 84.44%
+Epoch 5/5
+
+Train Loss: 0.27496 | Train Acc: 89.64%
+Test Loss: 0.38992 | Test Acc: 86.38%
+==============================Starting Ablation Study 5 Resnet/NonAverage/Video seed=64 ==================== 
+Epoch 1/5
+
+Train Loss: 0.52139 | Train Acc: 80.79%
+Test Loss: 0.42987 | Test Acc: 84.61%
+Epoch 2/5
+
+Train Loss: 0.30666 | Train Acc: 88.42%
+Test Loss: 0.35839 | Test Acc: 86.85%
+Epoch 3/5
+
+Train Loss: 0.25776 | Train Acc: 90.26%
+Test Loss: 0.35354 | Test Acc: 87.48%
+Epoch 4/5
+
+Train Loss: 0.22936 | Train Acc: 91.26%
+Test Loss: 0.36125 | Test Acc: 87.13%
+Epoch 5/5
+
+Train Loss: 0.20948 | Train Acc: 92.02%
+Test Loss: 0.35837 | Test Acc: 88.12%
+evaluating...
+Epoch 1/5
+
+Train Loss: 0.57878 | Train Acc: 78.59%
+Test Loss: 0.47739 | Test Acc: 82.03%
+Epoch 2/5
+
+Train Loss: 0.36705 | Train Acc: 86.21%
+Test Loss: 0.44064 | Test Acc: 84.37%
+Epoch 3/5
+
+Train Loss: 0.32022 | Train Acc: 87.94%
+Test Loss: 0.40683 | Test Acc: 85.04%
+Epoch 4/5
+
+Train Loss: 0.28600 | Train Acc: 89.08%
+Test Loss: 0.38566 | Test Acc: 86.17%
+Epoch 5/5
+
+Train Loss: 0.26323 | Train Acc: 89.99%
+Test Loss: 0.42654 | Test Acc: 85.53%
+==============================Starting Ablation Study 1 Resnet/Average/Video batch_size 64 ==================== 
+==============================Starting Ablation Study 1 Resnet/Average/Video batch_size 256 ==================== 
+==============================Starting Ablation Study 1 Resnet/Average/Video batch_size 1024 ==================== 
+==============================Starting Ablation Study 1 Resnet/Average/Video batch_size 2048 ==================== 
+==============================Starting Ablation Study 2 Normal/Average/Video batch_size=64 ==================== 
+==============================Starting Ablation Study 2 Normal/Average/Video batch_size=256 ==================== 
+==============================Starting Ablation Study 2 Normal/Average/Video batch_size=1024 ==================== 
+==============================Starting Ablation Study 2 Normal/Average/Video batch_size=2048 ==================== 
+==============================Starting Ablation Study 3 Resnet/Average/Video/SVHN batch_size=64 ==================== 
+==============================Starting Ablation Study 3 Resnet/Average/Video/SVHN batch_size=256 ==================== 
+==============================Starting Ablation Study 3 Resnet/Average/Video/SVHN batch_size=1024 ==================== 
+==============================Starting Ablation Study 3 Resnet/Average/Video/SVHN batch_size=2048 ==================== 
+==============================Starting Ablation Study 4 Resnet/NonAverage/Video batch_size=8 ==================== 
+==============================Starting Ablation Study 4 Resnet/NonAverage/Video batch_size=64 ==================== 
+==============================Starting Ablation Study 4 Resnet/NonAverage/Video batch_size=1024 ==================== 
+==============================Starting Ablation Study 4 Resnet/NonAverage/Video batch_size=4096 ==================== 
+==============================Starting Ablation Study 5 Resnet/NonAverage/Video seed=10 ==================== 
+==============================Starting Ablation Study 5 Resnet/NonAverage/Video seed=42 ==================== 
+==============================Starting Ablation Study 5 Resnet/NonAverage/Video seed=64 ==================== 
