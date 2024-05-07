@@ -55,6 +55,7 @@ class FashionMNISTPretrained(nn.Module):
     def forward(self, x):
         x = self.resnet18(x)
         return x
+    
 
 class SVHNModel(nn.Module):
     def __init__(self, output_shape: int) -> None:

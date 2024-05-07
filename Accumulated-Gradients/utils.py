@@ -11,6 +11,7 @@ from torch import nn
 from tqdm import tqdm
 import matplotlib.pyplot as plt
 import numpy as np
+from models import FashionMNISTModel, SVHNModel, FashionMNISTPretrained, SVHNPretrained
 import cv2
 
 def create_dataloader(dataset_name, root='data', train=True, download=True, transform=torchvision.transforms.ToTensor(), target_transform=None, batch_size=128, shuffle=False):
@@ -113,3 +114,39 @@ def create_video(feat_imp_list,name):
         video.write(image2)
 
     video.release()
+
+
+
+def choose_model(dataset_name, use_pretrained, train_data=None, class_name=None):
+    if dataset_name == 'FashionMNIST':
+        if use_pretrained:
+            model = FashionMNISTPretrained(len(class_name))
+        else:
+            image, label = train_data[0]
+            model = FashionMNISTModel(image.shape[0],10,len(class_name))
+    else:
+        if use_pretrained:
+            model  = SVHNPretrained(len(class_name))
+        else:
+            model = SVHNModel(len(class_name))
+    return model
+
+
+def get_class_name(dataset_name, train_data=None):
+    if dataset_name == 'SVHN':
+        class_name = [str(i) for i in range(10)]  # SVHN has 10 classes, representing digits 0-9
+    else:
+        class_name = train_data.classes
+    return class_name
+
+
+def create_mask(feat_imp_list_all, top_n_percent_features):
+    feat_imp = feat_imp_list_all[-1]
+    # Assuming feat_imp is a numpy array with shape (1, 28, 28) and already calculated
+    feat_imp_flat = feat_imp.flatten()  # Flatten the feature importance map
+    # Determine the threshold for the top 10%
+    k = int((1-top_n_percent_features) * len(feat_imp_flat))  
+    threshold = np.sort(feat_imp_flat)[k]
+    # Create a mask for top 10% of features
+    mask = feat_imp > threshold  # This will be True for top 10%, False otherwise
+    return mask
